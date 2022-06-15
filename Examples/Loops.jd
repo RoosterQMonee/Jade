@@ -1,0 +1,5 @@
+loop main () => {
+  print "looped.";
+};
+
+run main(10);
