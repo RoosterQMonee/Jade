@@ -1,0 +1,8 @@
+name = sys.input "What is your name? ";
+
+func greet () => {
+	print "Hello, ";
+	print var name;
+};
+
+call greet();
