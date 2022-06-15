@@ -1,0 +1,5 @@
+read = sys.read "./file.ext";
+
+print var read;
+
+write = sys.write "./file.ext" "Hello!";
