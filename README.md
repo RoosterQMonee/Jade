@@ -1,4 +1,12 @@
 # Jade - 1.1.2
+
 A simple programming language in python ( possibly C in the future )
 
-##### Credit to Mosvelt for the idea and language design!
+## Devs:
+
+* RoosterQMonee
+* Mosvelt
+
+`python jade.py <FILENAME> [-h]`
+
+`jade <FILENAME> [-h]`
