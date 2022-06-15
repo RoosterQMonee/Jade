@@ -1,0 +1,9 @@
+intro = "Hello, "
+
+func greet (name) => {
+	print var intro;
+	print var name;
+};
+
+
+call greet("mosvelt.");
