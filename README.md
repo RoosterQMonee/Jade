@@ -12,4 +12,4 @@ A simple programming language in python ( possibly C in the future )
 `jade <FILENAME> [-h]`
 
 
-#### The Jade binary is in the Releases tab
+#### Check the Wiki for info on the language ( installation, usage, and a tutorial! )
