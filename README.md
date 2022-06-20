@@ -5,7 +5,9 @@ A simple programming language in python ( C is available too )
 ## Current Data:
 
 Verison    : 1.3.0
+
 Platforms  : Python, Windows
+
 Code Lines : Python ( 4,659 ), C ( 175,214 )
 
 ## Devs:
@@ -22,17 +24,23 @@ Code Lines : Python ( 4,659 ), C ( 175,214 )
 > 1.3.0
 
 * Optimized variables for development and speed
+
 * Added recursive interpretation
+
 * Added a "exec" function ( buggy as of release )
 
 > 1.1.2
 
 * Fully functional
+
 * Stable interpreter
+
 * First Github release
+
 * Advanced functions ( Math, functions, loops )
 
 > 1.0.0
 
 * ( Not added to github due to instability )
+
 * Base features ( print, variables, strings, ints )
