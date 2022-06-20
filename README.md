@@ -1,15 +1,38 @@
-# Jade - 1.1.2
+# Jade
 
-A simple programming language in python ( possibly C in the future )
+A simple programming language in python ( C is available too )
+
+## Current Data:
+
+Verison    : 1.3.0
+Platforms  : Python, Windows
+Code Lines : Python ( 4,659 ), C ( 175,214 )
 
 ## Devs:
 
 * RoosterQMonee
 * Mosvelt
 
-`python jade.py <FILENAME> [-h]`
-
-`jade <FILENAME> [-h]`
-
+**All big releases and their files are in the "dist" folder!**
 
 #### Check the Wiki for info on the language ( installation, usage, and a tutorial! )
+
+## Releases:
+
+> 1.3.0
+
+* Optimized variables for development and speed
+* Added recursive interpretation
+* Added a "exec" function ( buggy as of release )
+
+> 1.1.2
+
+* Fully functional
+* Stable interpreter
+* First Github release
+* Advanced functions ( Math, functions, loops )
+
+> 1.0.0
+
+* ( Not added to github due to instability )
+* Base features ( print, variables, strings, ints )
