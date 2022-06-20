@@ -8,7 +8,7 @@ Verison    : 1.3.0
 
 Platforms  : Python, Windows
 
-Code Lines : Python ( 4,659 ), C ( 175,214 )
+Code Lines : Python ( 4,659 ), C ( 175,214 ), Full Estimate ( 1,055,943 )
 
 ## Devs:
 
