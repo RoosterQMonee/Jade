@@ -1,6 +1,6 @@
 # Jade
 
-A simple programming language in python ( C is available too )
+A simple programming language in python ( C/C++ is available too )
 
 ## Current Data:
 
@@ -8,7 +8,7 @@ Verison    : 1.3.0
 
 Platforms  : Python, Windows
 
-Code Lines : Python ( 4,659 ), C ( 175,214 ), Full Estimate ( 1,055,943 )
+Code Lines : Python ( 4,659 ), C ( 175,214 ), C++ ( 175,183 ), Full Estimate ( 2,111,886 )
 
 ## Devs:
 
