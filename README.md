@@ -2,6 +2,8 @@
 
 A simple programming language in python ( C/C++ is available too )
 
+There is a temporary development file for 1.4.0 in python! ( it has loop indexs :D )
+
 ## Current Data:
 
 Verison    : 1.3.0
